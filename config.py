@@ -1,0 +1,8 @@
+RabbitHost='129.59.234.180'
+Port='5672'
+VHost='/'
+User='indices'
+Password='manager'
+Exchange='collectd-exchange'
+RoutingKey='indices-perf-key'
+Host='minnow1'
