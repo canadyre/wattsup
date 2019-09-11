@@ -11,8 +11,9 @@ Usage
 
 ### Linux
 
-    python wattsup.py -p /dev/ttyUSBX -i
-    python wattsup.py --help
+    python3 wattsup.py -p /dev/ttyUSBX -i
+    python3 wattsup.py --help
+    python3 wattsup.py -p /dev/ttyUSBX -l -f json
 
 ### Mac OS X
 
